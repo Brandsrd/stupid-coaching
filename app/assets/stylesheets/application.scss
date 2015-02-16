@@ -1,0 +1,27 @@
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+  margin-top: 200px
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+h3 {
+  text-align: center;
+}
+
+
+form {
+  margin: 0 auto;
+  width:250px;
+}
+
